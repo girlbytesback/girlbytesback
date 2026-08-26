@@ -1,4 +1,4 @@
-<h1 align="center">welcome!</h1>
+<h1 align="center">✨ welcome! ✨</h1>
 <p align="center">
   <i>i'm sophia — an experienced software engineer and professional computer lover! 🧩✨</i>
 </p>
