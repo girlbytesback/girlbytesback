@@ -13,7 +13,7 @@ primarily backend & API development in java including event-driven architecture,
 an app that digitizes my wardrobe to explore ML concepts hands-on. currently it extracts dominant colors from clothing photos and matches them to curated palettes using perceptual color science (CIELAB, ΔE2000). evals, embeddings, and RAG are on the roadmap - work in progress.
 
 **🎨 other interests:**
-recently i've been playing arounf with creative coding in p5.js and learning touch designer (generative visuals and interactive sketches) and am also drawn to hardware, cyberdecks, and physical computing! 
+recently i've been playing around with creative coding in p5.js and learning touch designer (generative visuals and interactive sketches) and am also drawn to hardware, cyberdecks, and physical computing! 
 
 **📫 reach out to me!**
 [email:](mailto:sharifisophia@gmail.com) · [linkedin:](https://www.linkedin.com/in/sophiasharifi/)
